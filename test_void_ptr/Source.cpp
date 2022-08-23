@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-	void* pb; //can use when you don't know type of pointer
+	void* pb; //can use when you don't know the type of a pointer
 	int b = 13;
 	pb = &b;
 
